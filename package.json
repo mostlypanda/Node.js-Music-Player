@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/mostlypanda/Node.js-Music-Player#readme",
   "dependencies": {
+    "browserify-shim": "^3.8.14",
     "ejs": "^3.1.3",
     "express": "^4.17.1",
     "nodemon": "^2.0.4",
+    "save": "^2.4.0",
     "soundcloud-audio": "^1.4.0"
   }
 }
